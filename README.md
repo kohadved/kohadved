@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ConverseLLM**
 
-- 🌱 I’m currently learning **Advanced DSA, System Design, JavaScript Frameworks**
+- 🌱 I’m currently learning **Advanced DSA & System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kohadved](https://github.com/kohadved)
 
