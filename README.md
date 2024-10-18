@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kohadved](https://github.com/kohadved)
 
-- 💬 Ask me about **Advanced JavaScript, Backend Development, DSA**
+- 💬 Ask me about **DSA, Backend Development**
 
 - 📫 How to reach me **kohadvedant4@gmail.com**
 
